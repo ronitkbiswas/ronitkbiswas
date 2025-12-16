@@ -1,55 +1,39 @@
-# Hi, I’m Ronit 👋
+# Ronit Kumar Biswas
 
-I build practical web applications with JavaScript and React, focusing on clarity, fundamentals, and real-world behavior—not tutorial fluff.
+Builder by instinct. Operator by experience.  
+I focus on execution, systems, and fundamentals — both in business and in code.
 
-I’m currently strengthening my core JavaScript knowledge (DOM, events, state, storage) and applying it by building small but complete projects.
+## About Me
 
----
+- Entrepreneur with hands-on experience running profitable businesses
+- Strong background in JavaScript and web fundamentals
+- Currently sharpening full-stack skills by building real, small, focused projects
+- Believe in learning by building, breaking, and rebuilding
 
-## 🧠 What I’m Working On
+I prefer clarity over complexity and results over noise.
 
-- JavaScript fundamentals (DOM, events, localStorage, async)
-- React basics (components, state, props)
-- Turning small ideas into finished, usable apps
+## Technical Focus
 
----
+- JavaScript (ES6+)
+- HTML, CSS
+- Browser APIs (LocalStorage, Fetch, DOM)
+- Git & GitHub
+- Basic React (learning in progress)
 
-## 🛠 Tech Stack
+## What I’m Doing Now
 
-- **Languages:** JavaScript (ES6+), HTML, CSS
-- **Frontend:** React (learning)
-- **Tools:** Git, GitHub, VS Code
-- **Concepts:** DOM manipulation, event delegation, localStorage, async/await
+- Strengthening JavaScript fundamentals
+- Building small projects to reinforce concepts
+- Pushing clean, readable code to GitHub consistently
+- Preparing for larger frontend and full-stack projects
 
----
+## Philosophy
 
-## 📁 Projects
+- Fundamentals first, frameworks second
+- Simple code > clever code
+- Consistency beats motivation
+- Progress is measurable
 
-| Project | What It Does | Key Concepts |
-|------|-------------|-------------|
-| Notepad App | Add, delete, persist notes | localStorage, events |
-| Weather App | Fetch & display live weather | API, async/await |
-| JS Mini Apps | Small focused exercises | fundamentals |
-
-> Repos focus on understanding, not copy-paste code.
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronitkbiswas&show_icons=true)
-
----
-
-## 🌱 Learning Philosophy
-
-I prioritize:
-- fundamentals over frameworks  
-- understanding over memorization  
-- small finished projects over half-built ideas  
-
----
-
-## 📬 Contact
+## Contact
 
 - GitHub: https://github.com/ronitkbiswas
