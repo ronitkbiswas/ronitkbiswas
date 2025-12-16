@@ -1,38 +1,37 @@
 # Ronit Kumar Biswas
 
-Builder by instinct. Operator by experience.  
-I focus on execution, systems, and fundamentals — both in business and in code.
+JavaScript-focused developer building practical projects and strengthening core web fundamentals.
 
 ## About Me
 
-- Entrepreneur with hands-on experience running profitable businesses
-- Strong background in JavaScript and web fundamentals
-- Currently sharpening full-stack skills by building real, small, focused projects
-- Believe in learning by building, breaking, and rebuilding
+- Own a top-rated restaurant
+- Actively transitioning into a full-time developer role
+- Focused on learning by building and improving through real projects
+- Prefer clear logic, readable code, and practical problem solving
 
-I prefer clarity over complexity and results over noise.
-
-## Technical Focus
+## Technical Skills
 
 - JavaScript (ES6+)
 - HTML, CSS
-- Browser APIs (LocalStorage, Fetch, DOM)
+- Tailwind CSS
+- Browser APIs
 - Git & GitHub
-- Basic React (learning in progress)
+- Node.js
+- ReactJS (learning)
 
-## What I’m Doing Now
+## Current Focus
 
 - Strengthening JavaScript fundamentals
-- Building small projects to reinforce concepts
-- Pushing clean, readable code to GitHub consistently
-- Preparing for larger frontend and full-stack projects
+- Building small, focused frontend projects
+- Writing clean, understandable code
+- Preparing for junior frontend / JavaScript roles
 
-## Philosophy
+## Work Style
 
-- Fundamentals first, frameworks second
-- Simple code > clever code
-- Consistency beats motivation
-- Progress is measurable
+- Consistent and disciplined
+- Comfortable learning independently
+- Prefer simplicity over unnecessary abstraction
+- Focused on long-term growth
 
 ## Contact
 
