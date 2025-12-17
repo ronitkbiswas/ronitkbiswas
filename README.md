@@ -1,5 +1,3 @@
-# Ronit Kumar Biswas 👨‍💻
-
 JavaScript-focused developer building practical projects and strengthening core web fundamentals.
 
 ## About Me 🔖
