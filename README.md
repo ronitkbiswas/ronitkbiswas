@@ -1,38 +1,21 @@
-# Ronit Kumar Biswas
+# Ronit Kumar Biswas 👨‍💻
 
 JavaScript-focused developer building practical projects and strengthening core web fundamentals.
 
-## About Me
-
-- Own a top-rated restaurant
+## About Me 🔖
 - Actively transitioning into a full-time developer role
 - Focused on learning by building and improving through real projects
-- Prefer clear logic, readable code, and practical problem solving
-
-## Technical Skills
-
+- Own a top-rated restaurant, JB's Flame (4.0+ Zomato/Swiggy)
+## Technical Skills 💎
 - JavaScript (ES6+)
-- HTML, CSS
-- Tailwind CSS
-- Browser APIs
-- Git & GitHub
-- Node.js
 - ReactJS (learning)
+- Node.js (learning)
+- MongoDB
+- Git & GitHub
+- Browser APIs
+- POSTMAN
+- Tailwind CSS
+- HTML5, CSS3
 
-## Current Focus
-
-- Strengthening JavaScript fundamentals
-- Building small, focused frontend projects
-- Writing clean, understandable code
-- Preparing for junior frontend / JavaScript roles
-
-## Work Style
-
-- Consistent and disciplined
-- Comfortable learning independently
-- Prefer simplicity over unnecessary abstraction
-- Focused on long-term growth
-
-## Contact
-
-- GitHub: https://github.com/ronitkbiswas
+## Contact 🔒
+- facebook: https://facebook.com/ronitkbiswas
