@@ -1,7 +1,5 @@
-JavaScript-focused developer building practical projects and strengthening core web fundamentals.
-
 ## About Me 🔖
-- Actively transitioning into a full-time developer role
+- Actively transitioning into a full-time developer role from a restaurant founder
 - Focused on learning by building and improving through real projects
 - Own a top-rated restaurant, JB's Flame (4.2+ Zomato/Swiggy) ✅
   
