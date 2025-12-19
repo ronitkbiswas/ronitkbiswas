@@ -1,5 +1,6 @@
 ## About Me 🔖
-- Actively transitioning into a full-time developer role from a restaurant founder
+- B.Tech (2013-2017) in Electronics and Instrumentation Engineering 🎓
+- Actively transitioning into a full-time developer role from a restaurant founder 🧑🏻‍💻
 - Focused on learning by building and improving through real projects
 - Own a top-rated restaurant, JB's Flame (4.2+ Zomato/Swiggy) ✅
   
