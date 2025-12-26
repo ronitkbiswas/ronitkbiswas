@@ -1,14 +1,14 @@
-## About Me 🔖
-- B.Tech (2013-2017) in Electronics and Instrumentation Engineering 🎓
-- Actively transitioning into a full-time developer role from a restaurant founder 🧑🏻‍💻
+## About Me 🦊
+- B.Tech (2013-2017) in Applied Electronics and Instrumentation Engineering (AEIE) 🎓
+- Actively transitioning into a full-time developer role from a restaurant founder / owner 🧑🏻‍💻
 - Focused on learning by building and improving through real projects
-- Own a top-rated restaurant, JB's Flame (4.2+ Zomato/Swiggy) ✅
+- Own a top-rated restaurant, JB's Flame (4.3+ Zomato/Swiggy) ✅
   
 ## Technical Skills 💎
 - JavaScript (ES6+)
-- ReactJS (learning)
-- Node.js (learning)
-- MongoDB
+- Typescript
+- ReactJS
+- Node.js
 - Git & GitHub
 - Browser APIs
 - POSTMAN
