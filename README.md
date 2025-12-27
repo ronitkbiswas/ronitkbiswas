@@ -4,6 +4,3 @@
 ## About Me 🦊
 - B.Tech (2017 batch) in Applied Electronics and Instrumentation Engineering (AEIE) 🎓
 - Own a top-rated restaurant, JB's Flame (4.3+ Zomato/Swiggy) ✅
-
-## Contact 🔒
-- linkedin: https://www.linkedin.com/in/ronitkbiswas/
