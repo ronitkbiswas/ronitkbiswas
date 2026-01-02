@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+Developer;React+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=FrontEnd+Developer;JavaScript+Developer;React+Developer" />
 </p>
 
 ---
@@ -46,17 +46,7 @@ Passionate **Engineer** from Kolkata with a background in **Applied Electronics 
 
 </p>
 
----
-
-### 📈 GitHub Data Visualization
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitkbiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronitkbiswas&layout=compact&theme=tokyonight&hide_border=true&v=1)
-
-![GitHub streak](https://streak-stats.demolab.com?user=ronitkbiswas&theme=tokyonight&hide_border=true&v=1)
-
----
+--- ### 📈 GitHub Data Visualization <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ronitkbiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitkbiswas&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitkbiswas&theme=tokyonight&hide_border=true" /> </p> ---
 
 
 
