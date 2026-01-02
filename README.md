@@ -23,7 +23,7 @@ I am a passionate **Engineer** from Kolkata with a background in **Applied Elect
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-1572B6?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nodejs-1572B6?style=for-the-badge&logo=nodejs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node-1572B6?style=for-the-badge&logo=node&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
