@@ -10,14 +10,15 @@
 </p>
 
 ---
-### 💫 About Me
-Passionate **Engineer** from Kolkata with a background in **Applied Electronics and Instrumentation Engineering**. I specialize in front end development, react JS
+### 🧑‍🦱 About Me
+Passionate **Engineer** from Kolkata with a background in **B.Tech, AEIE**. I specialize in JavaScript, ReactJS, TypeScript, Web Apps, API's
 
-- 🎓 **B.Tech Graduate** in Applied Electronics & Instrumentation.
-- 🚀 Currently perfecting **Weather App v5.0** with Tailwind CSS.
+- 🚀 Currently perfecting programming skils
+- ✨ Owns a top rated restaurant **JB's Flame** (⭐ 4.3+) on Zomato & Swiggy
+  
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### 🪄 Tech Stack & Toolbox
 
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
