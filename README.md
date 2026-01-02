@@ -50,27 +50,14 @@ Passionate **Engineer** from Kolkata with a background in **Applied Electronics 
 
 ### 📈 GitHub Data Visualization
 
-<p align="center">
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=ronitkbiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"
-    alt="GitHub stats"
-  />
-  <img
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitkbiswas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    alt="Top languages"
-  />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronitkbiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1)
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=ronitkbiswas&theme=tokyonight&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ronitkbiswas&layout=compact&theme=tokyonight&hide_border=true&v=1)
+
+![GitHub streak](https://streak-stats.demolab.com?user=ronitkbiswas&theme=tokyonight&hide_border=true&v=1)
 
 ---
+
 
 
 ### 🌐 Connect With Me
