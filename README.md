@@ -1,6 +1,55 @@
-## Technical Skills 🪄
-- JavaScript (ES6+) | React JS | Typescript | Node.js | Git & GitHub | Browser API's | POSTMAN | Tailwind CSS | HTML5, CSS3
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:312e81&height=240&section=header&text=Ronit%20Kumar%20Biswas&fontSize=70&animation=fadeIn&fontColor=60a5fa" />
+</p>
 
-## About Me 🧑‍🦱
-- B.Tech (2017 batch) in Applied Electronics and Instrumentation Engineering (AEIE) 🎓
-- Own a top-rated restaurant, JB's Flame (4.3+ Zomato/Swiggy) ✅
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=B.Tech+Engineer;Frontend+Developer;Weather+App+v5.0+Creator;Instrumentation+Specialist" />
+</p>
+
+---
+
+### 💫 About Me
+I am a passionate **Engineer** from Kolkata with a background in **Applied Electronics and Instrumentation Engineering**. I specialize in bridging the gap between hardware logic and modern software interfaces. 
+
+- 📍 Based in **Kolkata, West Bengal** (700159).
+- 🎓 **B.Tech Graduate** in Applied Electronics & Instrumentation.
+- 🚀 Currently perfecting **Weather App v5.0** with Tailwind CSS.
+- 💍 Milestone: Married to **Jhuma Biswas** (Dec 15, 2024).
+
+---
+
+### 🛠️ Tech Stack & Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Data Visualization
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ronitkbiswas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronitkbiswas&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronitkbiswas&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://github.com/ronitkbiswas">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20IN-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
