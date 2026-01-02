@@ -10,13 +10,11 @@
 </p>
 
 ---
+### 💫 About Me
+I am a passionate **Engineer** from Kolkata with a background in **Applied Electronics and Instrumentation Engineering**. I specialize in bridging the gap between hardware logic and modern software interfaces. Expand commentComment on line R15
 
-### Technical Skills 🪄
-- JavaScript (ES6+) | React JS | Typescript | Node.js | Git & GitHub | Browser API's | POSTMAN | Tailwind CSS | HTML5, CSS3
-
-## About Me 🧑‍🦱
-- B.Tech (2017 batch) in Applied Electronics and Instrumentation Engineering (AEIE) 🎓
-
+- 🎓 **B.Tech Graduate** in Applied Electronics & Instrumentation.
+- 🚀 Currently perfecting **Weather App v5.0** with Tailwind CSS.
 ---
 
 ### 🛠️ Tech Stack & Toolbox
