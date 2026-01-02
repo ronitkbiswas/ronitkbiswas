@@ -1,4 +1,4 @@
-## Technical Skills ✨
+## Technical Skills 🔧
 - JavaScript (ES6+) | React JS | Typescript | Node.js | Git & GitHub | Browser API's | POSTMAN | Tailwind CSS | HTML5, CSS3
 
 ## About Me 🦊
