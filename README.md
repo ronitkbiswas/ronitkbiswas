@@ -11,7 +11,7 @@
 
 ---
 ### 💫 About Me
-I am a passionate **Engineer** from Kolkata with a background in **Applied Electronics and Instrumentation Engineering**. I specialize in bridging the gap between hardware logic and modern software interfaces. Expand commentComment on line R15
+Passionate **Engineer** from Kolkata with a background in **Applied Electronics and Instrumentation Engineering**. I specialize in front end development, react JS
 
 - 🎓 **B.Tech Graduate** in Applied Electronics & Instrumentation.
 - 🚀 Currently perfecting **Weather App v5.0** with Tailwind CSS.
