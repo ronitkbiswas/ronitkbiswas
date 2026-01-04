@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:312e81&height=240&section=header&text=Ronit%20Kumar%20Biswas&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </p> -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:200000,100:8b0000&height=240&section=header&text=Ronit%20k.%20Biswas&fontSize=68&animation=fadeIn&fontColor=e5e7eb" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:200000,100:8b0000&height=240&section=header&text=Ronit%20Kumar%20Biswas&fontSize=68&animation=fadeIn&fontColor=e5e7eb" />
 </p>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 ---
 ### 🧑‍🦱 About Me
-Passionate **Engineer** from Kolkata with a background in **B.Tech, AEIE**. I specialize in JavaScript, ReactJS, TypeScript, Web Apps, API's
+Passionate **Engineer / Coder** from Kolkata with a background in **B.Tech**. I specialize in JavaScript, ReactJS, TypeScript, Web Apps, API's & more...
 
-- 🚀 Currently perfecting programming skils
-- ✨ Owns a top rated restaurant **JB's Flame** (⭐ 4.3+) on Zomato & Swiggy
+- 🚀 Currently perfecting my programming skils..
+- ✨ Own a top rated restaurant **JB's Flame** (⭐ 4.3+) on Zomato & Swiggy
   
 ---
 
