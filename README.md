@@ -68,6 +68,6 @@ Passionate **Engineer / Coder** from Kolkata with a background in **B.Tech**. I 
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20IN-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+</p> -->
