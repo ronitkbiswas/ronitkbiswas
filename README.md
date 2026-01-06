@@ -62,6 +62,7 @@ Passionate **Engineer / Coder** from Kolkata with a background in **B.Tech**. I 
 
 ### 🌐 Connect With Me
 <p align="left">
+<a href="https://www.linkedin.com/in/ronitkbiswas">Linkedin 🔗</a>
   <a href="https://github.com/ronitkbiswas">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
