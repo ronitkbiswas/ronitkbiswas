@@ -8,16 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff41&center=true&vCenter=true&width=435&lines=//+FrontEnd+Developer;//+JavaScript+Developer;<+ReactJS+Developer+/>" />
 </p>
-
----
-### 🧑‍🦱 About Me
-Passionate **Engineer / Coder** from Kolkata with a background in **B.Tech**. I specialize in JavaScript, ReactJS, TypeScript, Web Apps, API's & more...
-
-- 🚀 Currently perfecting my programming skils..
-- ✨ Own a top rated restaurant **JB's Flame** (⭐ 4.3+) on Zomato & Swiggy
-  
----
-
 ### 🪄 Tech Stack & Toolbox
 
 <!-- <p align="left">
