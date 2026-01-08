@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff41&center=true&vCenter=true&width=435&lines=//+FrontEnd+Developer;//+JavaScript+Developer;<+ReactJS+Developer+/>" />
 </p>
+
 ### 🪄 Tech Stack & Toolbox
 
 <!-- <p align="left">
@@ -37,11 +38,4 @@
 
 </p>
 
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20IN-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
