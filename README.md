@@ -66,6 +66,6 @@
 
 | Project Name | Description |
 |--------------|-------------|
-| <a href="https://ronitkbiswas.github.io/weatherApp/">weatherApp</a> | Instantly know & feel accurate weather around you, really! |
+| <a href="https://ronitkbiswas.github.io/weatherApp/" target="_blank">weatherApp</a> | Instantly know & feel accurate weather around you, really! |
 
 
