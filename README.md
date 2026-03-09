@@ -14,7 +14,7 @@
 
 | Project Name | Description |
 |--------------|-------------|
-| [Mvpblocks](https://blocks.mvp-subha.me) | Instantly make MVP landing pages with Tailwind & Best UI |
+| weatherApp | Instantly know weather around you! |
 
 
 
