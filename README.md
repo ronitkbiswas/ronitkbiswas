@@ -22,11 +22,10 @@
 <p><h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h2></p>
 
 <p style="color: #fff;">
-<a href="https://instagram.com/mvp_subha"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://linkedin.com/in/subhadeep3902"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://twitter.com/@mvp_Subha"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://leetcode.com/Subhadeep3902/"><img src="https://img.shields.io/badge/Leetcode-%2DAFC0.svg?logo=Leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="https://github.com/subhadeeproy3902"><img src="https://img.shields.io/badge/GeeksForGeeks-%23DA1F2.svg?logo=GeeksForGeeks&logoColor=white&background=green" alt="GitHub" /></a></p>
+<a href="https://instagram.com/ronitkbiswas"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://linkedin.com/in/ronitkbiswas"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://twitter.com/ronitkbiswas](https://x.com/RonitBi50522970)"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://github.com/ronitkbiswas"><img src="https://img.shields.io/badge/GeeksForGeeks-%23DA1F2.svg?logo=GeeksForGeeks&logoColor=white&background=green" alt="GitHub" /></a></p>
 
 
 <p><h2 style="text-decoration: none; cursor: none;">  💻 <span style="color: #00c2e0">My workspace:</span></h2></p>
@@ -41,10 +40,8 @@
 
 <p><h3>Core Stacks</h3></p>
   <div style="display: flex; gap:5px; flex-wrap: wrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=40/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=40 />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width=40/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width=40 />
   </div>
