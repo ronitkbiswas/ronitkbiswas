@@ -83,19 +83,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=40/>
   </div>
 <br/>
-
-![Bento GitHub Stats](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento2%2Fbento_1730595416098.png?alt=media&token=e8dae345-0b7a-4058-bb80-b5aab3930e5e)
-
-
-<p><h2 style="text-decoration: none; cursor: none;"> 📊 <span style="color: #00c2e0">LeetCode Stats:</span></h2></p>
-
-<div style="display: flex; align-items: center; justify-content: center;"><img src="https://leetcard.jacoblin.cool/Subhadeep3902?theme=dark&font=montserrat&radius=6&ext=heatmap" /></div>
-
-<p><h2 style="text-decoration: none; cursor: none;">🏆 <span style="color: #00c2e0">GitHub Trophies:</span></h2></p>
-
-![](https://github-profile-trophy.vercel.app/?username=subhadeeproy3902&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
-
 <p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subhadeeproy3902&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
