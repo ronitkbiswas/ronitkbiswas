@@ -6,9 +6,9 @@
 
 <p><h2 style="text-decoration: none; cursor: none;"> ✨ <span style="color: #00c2e0">About Me:</span> </h2></p>
 
-<p>🔴 Programming enthusiast</p>
+<p>🟢 Programming enthusiast</p>
 <p>🟡 Busy with <span style="color: aqua; font-weight: 600">JavaScript</span>, <span style="color: lime; font-weight: 600">ReactJS</span> and <span style="color: pink; font-weight: 600">forEach loops!</span></p>
-<p>🟢 Making a bunch of cool project too</p>
+<p>🔴 Making a bunch of cool project too</p>
 
 ## Projects:
 
