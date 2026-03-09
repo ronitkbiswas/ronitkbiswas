@@ -6,7 +6,7 @@
 <p>🟢 Programming enthusiast</p>
 <p>🟡 Busy with <span style="color: aqua; font-weight: 600">JavaScript</span>, <span style="color: lime; font-weight: 600">ReactJS</span> and <span style="color: pink; font-weight: 600">forEach loops!</span></p>
 <p>🔴 Making a bunch of cool project too</p>
-<p><h2 style="text-decoration: none; cursor: none;">⚙ <span style="color: #00c2e0">Tech Stack:</span></h2></p>
+<p><h2 style="text-decoration: none; cursor: none;">⚙ <span style="color: #00c2e0">Current Tech Stack:</span></h2></p>
 <p><h3>Core Stacks</h3></p>
   <div style="display: flex; gap:5px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=40/>
