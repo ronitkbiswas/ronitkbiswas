@@ -10,14 +10,6 @@
 <p>🟡 Busy with <span style="color: aqua; font-weight: 600">JavaScript</span>, <span style="color: lime; font-weight: 600">ReactJS</span> and <span style="color: pink; font-weight: 600">forEach loops!</span></p>
 <p>🔴 Making a bunch of cool project too</p>
 
-## Projects:
-
-| Project Name | Description |
-|--------------|-------------|
-| weatherApp | Instantly know weather around you! |
-
-
-
 
 <p><h2 style="text-decoration: none; cursor: none;"> 🌐 <span style="color: #00c2e0">Socials:</span></h2></p>
 
@@ -80,3 +72,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width=40/>
   </div>
 <br/>
+
+## Projects:
+
+| Project Name | Description |
+|--------------|-------------|
+| weatherApp | Instantly know weather around you! |
+
+
