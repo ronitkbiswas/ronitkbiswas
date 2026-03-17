@@ -4,7 +4,7 @@
 <br/>
 <p><h2 style="text-decoration: none; cursor: none;"> ✨ <span style="color: #00c2e0">About Me:</span> </h2></p>
 <!-- <img src="https://img.shields.io/badge/Programming-10%2B%20Years-informational" alt="badge"> -->
-<p>🟢 10+ years experience in Programming </p>
+<p>🟢 10+ years experience in Programming (Of course started with html-css-javascript & some early-age curiosity about the www !)</p>
 <p>🟡 Busy with <span style="color: lime; font-weight: 600">ReactJS</span> & <span style="color: pink; font-weight: 600">food orders!</span></p>
 <p>✅ Making some cool projects too</p>
 <p><h2 style="text-decoration: none; cursor: none;">⚙ <span style="color: #00c2e0">Current Tech Stack:</span></h2></p>
