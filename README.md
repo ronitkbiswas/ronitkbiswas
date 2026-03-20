@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff41&center=true&vCenter=true&width=435&lines=//+FrontEnd+Developer;//+JavaScript+Developer;<+ReactJS+Developer+/>" />
 </p>
 <br/>
-<p><h2 style="text-decoration: none; cursor: none;"> ✨ <span style="color: #00c2e0">About Me:</span> </h2></p>
+<p><h2 style="text-decoration: none; cursor: none;"> ✨ <span style="color: #00c2e0">About Me:</span> 💻</h2></p>
 <!-- <img src="https://img.shields.io/badge/Programming-10%2B%20Years-informational" alt="badge"> -->
 <p>🍷 10+ years experience in Programming (Of course started with html-css-javascript & some early-age curiosity about the www !)</p>
 <p>🍦 Busy with <span style="color: lime; font-weight: 600">ReactJS</span> & <span style="color: pink; font-weight: 600">food orders!</span></p>
