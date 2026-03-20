@@ -58,7 +58,8 @@
 <a href="https://github.com/ronitkbiswas"><img src="https://img.shields.io/badge/GeeksForGeeks-%23DA1F2.svg?logo=GeeksForGeeks&logoColor=white&background=green" alt="GitHub" /></a></p>
 <p><h2 style="text-decoration: none; cursor: none;">  💻 <span style="color: #00c2e0">My workspace:</span></h2></p>
 <p style="color: #fff;">
-<img src="https://img.shields.io/badge/Kali_Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=268BEE" alt="Linux">
+<!-- <img src="https://img.shields.io/badge/Kali_Linux-informational?style=flat&logo=kali-linux&logoColor=white&color=268BEE" alt="Linux"> -->
+  <img src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420 alt="Linux">
 <!-- <img src="https://img.shields.io/badge/Windows_11-informational?style=flat&logo=Windows11&logoColor=white&color=0078d6" alt="Windows" /> -->
 <img src="https://img.shields.io/badge/Intel-i5_13th_Gen-informational?style=flat&logo=intel&logoColor=white&color=0071C5" alt="Intel" />
 <img src="https://img.shields.io/badge/RAM-8_GB-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAAAqUlEQVQokaWSsQ3CQAxF36GIMlQMAbkFaOgoGQCJIdiKIl3YIYxAg6gjSso0n8YJLhC5E1+yLJ39zpb84V9JCpK2lqOkpUX0tW/gQlJnuZZ0tKh9begPBq2BfeJyTQjhNkxrJd0lPTWtFmBmv5TABbgmTCwBCvdwSlwVPzFbxXTLqAZ4ADsPvhLADRCBDj7nWAEHYD4B98B5PIfBWQbwoLdc5SxX/bRcrt4PhcIRoFAWyAAAAABJRU5ErkJggg==&logoColor=white&color=GREEN" alt="Ram" />
