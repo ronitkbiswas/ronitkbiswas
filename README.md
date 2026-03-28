@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff41&center=true&vCenter=true&width=435&lines=//+FrontEnd+Developer;//+JavaScript+Developer;<+ReactJS+Developer+/>" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff41&center=true&vCenter=true&width=435&lines=//+FrontEnd+Developer;//+JavaScript+Developer;<+ReactJS+Developer+/>" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00ff41&center=true&vCenter=true&width=435&lines=//+FrontEnd+Developer;<+ReactJS+Developer+/>" />
 </p>
 <br/>
 <p><h2 style="text-decoration: none; cursor: none;"> ✨ <span style="color: #00c2e0">About Me:</span> 💻</h2></p>
